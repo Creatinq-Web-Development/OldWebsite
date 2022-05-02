@@ -1,6 +1,6 @@
 ## Website
 
-The main website of this organization, will redirect to this site when entering.
+The old website of this organization, will redirect to this site when entering.
 
 ### Services
 
